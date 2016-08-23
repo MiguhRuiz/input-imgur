@@ -1,0 +1,30 @@
+{
+  "name": "input-imgur",
+  "version": "1.0.0",
+  "description": "A easy way to upload the content of an input file into Imgur",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguhRuiz/input-imgur.git"
+  },
+  "keywords": [
+    "imgur",
+    "input",
+    "file",
+    "base64",
+    "api",
+    "imgur-api"
+  ],
+  "author": "Miguh Ruiz <miguhruiz@gmail.com> (https://miguhruiz.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguhRuiz/input-imgur/issues"
+  },
+  "homepage": "https://github.com/MiguhRuiz/input-imgur#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
