@@ -24,7 +24,9 @@
     "url": "https://github.com/MiguhRuiz/input-imgur/issues"
   },
   "homepage": "https://github.com/MiguhRuiz/input-imgur#readme",
-  "devDependencies": {
-    "ava": "^0.16.0"
+  "devDependencies": {},
+  "dependencies": {
+    "form-data": "^1.0.0-rc4",
+    "xmlhttprequest": "^1.8.0"
   }
 }
